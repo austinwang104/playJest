@@ -1,2 +1,4 @@
 # npm project
 node_modules/
+# presetting in npm prj
+package-lock.json
