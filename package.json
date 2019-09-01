@@ -1,0 +1,19 @@
+{
+  "name": "playJest",
+  "version": "1.0.0",
+  "description": "* [Jest](https://github.com/facebook/jest)\r     - getting start with the jest project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@hub104:austinwang104/playJest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
